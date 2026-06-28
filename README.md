@@ -1,4 +1,4 @@
-# phi3-lora-structured-output
+# Phi3-mini Refinement via LoRA Training Pipeline
 
 Fine-tuning Phi-3 Mini 4k Instruct using LoRA to generate structured JSON output reliably. Trained on AWS EC2 G4dn.xlarge, tracked with Weights and Biases, adapter saved as a reusable artifact.
 
