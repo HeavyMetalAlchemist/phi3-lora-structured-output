@@ -1,0 +1,8 @@
+{
+  "schema_compliance": 1.0,
+  "emotion_accuracy": 0.6530612244897959,
+  "intensity_accuracy": 0.8214285714285714,
+  "formality_accuracy": 0.9744897959183674,
+  "actionable_accuracy": 0.7908163265306123,
+  "overall_accuracy": 0.8099489795918368
+}

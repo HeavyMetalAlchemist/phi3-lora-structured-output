@@ -1,0 +1,15 @@
+data/generated_raw.jsonl
+data/train.jsonl
+data/val.jsonl
+data/test.jsonl
+.env
+results/baseline_results.jsonl
+results/finetuned_results.jsonl
+terraform/terraform.tfstate
+terraform/terraform.tfstate.backup
+terraform/.terraform/
+terraform/terraform.tfvars
+terraform/.terraform.lock.hcl
+**/__pycache__/
+*.pyc
+.ipynb_checkpoints/

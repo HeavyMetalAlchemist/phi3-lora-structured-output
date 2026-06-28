@@ -1,0 +1,22 @@
+
+# Jupyter
+notebook>=7.0.0
+nbclassic==1.1.0
+
+# HuggingFace - dataset loading only, no transformers needed locally
+datasets==5.0.0
+
+# AWS
+boto3==1.43.0
+
+# Data processing and visualization
+pandas==2.2.2
+numpy==1.26.4
+matplotlib==3.9.1
+seaborn==0.13.2
+scikit-learn==1.5.1
+wandb>=0.22.3
+# Utilities
+python-dotenv==1.0.1
+tqdm==4.66.4
+jsonlines==4.0.0
